@@ -1,0 +1,7 @@
+[
+  {
+    "key": "insert",
+    "command": "-toggleOverwrite",
+    "when": "editorTextFocus"
+  }
+]
